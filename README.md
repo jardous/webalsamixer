@@ -110,3 +110,5 @@ A modern, web-based interface for the Linux ALSA sound system.
     ```bash
     npm run dev
     ```
+
+<img width="1424" height="1299" alt="image" src="https://github.com/user-attachments/assets/7548814d-8d79-4b22-9c4b-2a07f0a3f1d7" />
